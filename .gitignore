@@ -1,0 +1,5 @@
+.idea
+venv
+bin/
+.sass-cache
+__pycache__

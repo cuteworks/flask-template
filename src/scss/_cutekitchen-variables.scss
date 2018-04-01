@@ -1,0 +1,27 @@
+/***********************************************************************************************************************
+ * Here we define any variables we use across CuteKitchen. They're defined here in order to be accessible to all the
+ * SCSS files we build with the project. They are read in cutekitchen.scss and used there to override the default framework
+ * styles.
+ * ********************************************************************************************************************/
+
+@import "cuteworks-variables";
+
+$cutekitchen-block-font: 'Bungee', sans-serif;
+$cutekitchen-sans-serif-font: 'Yantramanav', sans-serif;
+$cutekitchen-serif-font: 'Roboto Slab', serif;
+
+$cutekitchen-black: #220901;
+$cutekitchen-dark: #361f18;
+$cutekitchen-light: #dad6d5;
+$cutekitchen-white: #eceaea;
+
+$cutekitchen-primary: #bc3908;
+//$cutekitchen-primary-subtle: #ffbble; //TODO
+
+$cutekitchen-secondary: #621708;
+//$cutekitchen-secondary-subtle: $cuteworks-secondary-subtle; // TODO;
+
+$cutekitchen-primary-accent: #ffbb1e;
+$cutekitchen-secondary-accent: #941b0c;
+
+//$cutekitchen-black-deep: darken($cutekitchen-black, 5%);
