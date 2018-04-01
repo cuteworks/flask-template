@@ -3,16 +3,16 @@
  * additional framework fixes are then applied.
  * ********************************************************************************************************************/
 
-@import "cutekitchen-variables";
+@import "cutetemplate-variables";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// region Map framework variables to cutekitchen variables
+// region Map framework variables to cutetemplate variables
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-$family-sans-serif: $cutekitchen-sans-serif-font;
+$family-sans-serif: $cutetemplate-sans-serif-font;
 
-$primary: $cutekitchen-primary;
-$info: $cutekitchen-secondary;
+$primary: $cutetemplate-primary;
+$info: $cutetemplate-secondary;
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // endregion
@@ -22,15 +22,15 @@ $info: $cutekitchen-secondary;
 // region Bulma variable overrides.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-$footer-background-color: $cutekitchen-black;
-$card-background-color: $cutekitchen-white;
+$footer-background-color: $cutetemplate-black;
+$card-background-color: $cutetemplate-white;
 
-$navbar-background-color: $cutekitchen-black;
-$navbar-item-hover-background-color: $cutekitchen-dark;
+$navbar-background-color: $cutetemplate-black;
+$navbar-item-hover-background-color: $cutetemplate-dark;
 
-$black: $cutekitchen-black;
+$black: $cutetemplate-black;
 
-$link: $cutekitchen-primary-accent;
+$link: $cutetemplate-primary-accent;
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // endregion

@@ -15,4 +15,3 @@ def register():
 
 def logout():
     pass
-
